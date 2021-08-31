@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lazzy_programmer/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SharmaSh1997)
 
-<a href="https://komarev.com/ghpvc/?username=shivam-sharmaj&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shivam-sharmaj&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /></p>
 
 
 <!--
