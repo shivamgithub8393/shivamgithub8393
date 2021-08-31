@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lazzy_programmer/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SharmaSh1997)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shivamgithub8393&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-sharma" /></p>
+
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -25,8 +27,6 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shivamgithub8393&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-sharma" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
