@@ -54,3 +54,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📈 GitHub Graph & Stats
+<img src="https://activity-graph.herokuapp.com/graph?username=shivamgithub8393&theme=xcode">
+  
+---
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamgithub8393&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgithub8393&theme=tokyonight" />
+</p>
+
